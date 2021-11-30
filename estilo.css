@@ -401,6 +401,8 @@ header label{
     background-color: rgba(0, 0, 0, 0.2);
     border-radius: 6px;
     padding: 8px;
+    font-size: 0.8em;
+    text-decoration: none;
 }
 .buttonAcceder:hover{
     border-style: outset;
