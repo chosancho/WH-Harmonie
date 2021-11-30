@@ -337,3 +337,74 @@ header label{
     padding: 2em 1em;
     justify-content: first baseline;
 }
+/*----------------------00000000000000000000----------------------------------*/
+.introExteriorSolo{
+    width: 100%;
+    padding: 5% 10%;
+    background-color: #fdf8ca;
+}
+.introInteriorSolo{
+    background-color: white;
+    margin: auto;
+    padding: 5%;
+    box-shadow: -5px 5px rgba(0, 0, 0, 0.1);
+}
+.introInteriorSolo h1{
+    margin: 0;
+}
+.pSinMargin{
+    margin:0;
+}
+/*--------------------------------------------------------------------------------------------------*/
+
+.introExterior{
+    width: 100%;
+    padding: 2% 10%;
+    background-color: #fdf8ca;
+}
+.introExterior h1{
+    margin: 3%;
+}
+.introInterior{
+    background-color: white;
+    margin: auto;
+    padding: 5%;
+    box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.introInterior h1{
+    margin: 0;
+}
+.tableJours{
+    width: 100%;
+    justify-content: center;
+}
+
+.tableJours td{
+    padding: 1%;
+    margin:auto;
+    border-bottom:  solid rgba(0, 0, 0, 0.1) ;
+}
+.tdJours{
+    width: 90%;
+}
+.tdButton{
+    margin-right: 0;
+    padding-right: 0;
+}
+.pSinMargin{
+    margin:0;
+}
+/*--------------------------------------------------------------------------------------------------*/
+.buttonAcceder{
+    color: white;
+    border-style: none;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    padding: 8px;
+}
+.buttonAcceder:hover{
+    border-style: outset;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+/*----------------------00000000000000000000----------------------------------*/
